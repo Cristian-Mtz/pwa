@@ -1,7 +1,7 @@
 {
-	"name": "Cusro PWA - Cristian Martínez WEB",
+	"name": "Cristian Martínez Web",
 	"short_name": "Cristian Martínez PWA",
-	"description": "Aplicación PWA del curso de responsive y aplicaciones web progresivas de Cristian Martínez",
+	"description": "Prueba de aplicación responsive y aplicacion web progresiva de Cristian Martínez",
 	"background_color": "#FFF",
 	"theme_color": "#FB314E",
 	"orientation": "portrait",
